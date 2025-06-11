@@ -15,7 +15,7 @@ iii. Store-wide bestsellers (fallback).
 Extract all the file and uploads on your shopify theme except cart-drawer.liquid
 Add only the part of the cart-drawer file mentioned below
 
-
+```html
 <!-- Add these css and js links on your cart-drawer liquid file -->
 <!-- links Start -->
 {{ 'suggested-products.css' | asset_url | stylesheet_tag }}
@@ -35,3 +35,4 @@ Add only the part of the cart-drawer file mentioned below
       <div class="swiper-pagination"></div>
     </div>
 </div>
+```
