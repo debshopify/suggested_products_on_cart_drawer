@@ -36,3 +36,5 @@ Add only the part of the cart-drawer file mentioned below
     </div>
 </div>
 ```
+Please check the screenshot it will be looks like -
+![screenshot-suggested-product](https://github.com/user-attachments/assets/bba0e492-6860-46fe-967c-45d77eaf2b0e)
